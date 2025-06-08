@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package com.disbursementreport.credit;
 
 import org.springframework.boot.SpringApplication;
@@ -9,3 +10,6 @@ public class CreditSystemApplication {
         SpringApplication.run(CreditSystemApplication.class, args);
     }
 }
+=======
+
+>>>>>>> 37a1e32df60e6af346e7acae4bf5a02b1bf23896
